@@ -1,4 +1,4 @@
-# better_call_jimmy.github.io
+# JixiangChen-Jimmy.github.io
 # Many thanks to mayuelala.github.io for the template
 
-https://better_call_jimmy.github.io/
+https://JixiangChen-Jimmy.github.io/
